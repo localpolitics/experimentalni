@@ -2,7 +2,7 @@
 title: "Web stranka na zkousku"
 author: "Vasek"
 date: "2025-03-10"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
