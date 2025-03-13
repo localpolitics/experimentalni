@@ -1,13 +1,11 @@
 #'---
-#'  title: "Something weird"
+#'title: "Something weird"
 #'author: "Vasko"
 #'date: "2025-03-13"
 #'output:
-#'  html_document:
+#'  github_document:
 #'  keep_md: true
 #'---
-
-
 #' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
 # here is a regular code comment, that will remain as such
