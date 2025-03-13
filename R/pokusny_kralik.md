@@ -1,6 +1,6 @@
-Something weird
+R scripts can be rendered!
 ================
-Vasko
+bubenicek
 2025-03-13
 
 Here’s some prose in a very special comment. Let’s summarize the

@@ -1,11 +1,8 @@
-#'---
-#'title: "Something weird"
-#'author: "Vasko"
-#'date: "2025-03-13"
-#'output:
-#'  github_document:
-#'  keep_md: true
-#'---
+#' ---
+#' title: "R scripts can be rendered!"
+#' output: github_document
+#' ---
+#'
 #' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
 # here is a regular code comment, that will remain as such
